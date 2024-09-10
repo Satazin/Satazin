@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Davih or you can call me by my nickname in games: Satazin (it's not like satan just like the cable sata for pc things)
+- 👋 Hi, I’m Davih or you can call me by my nickname in games: Satazin
 - 👀 I’m interested in some games and a lil of code things (i'm still learning how to code)
-- 🌱 I’m currently learning html, css 
-- 📫 you can reach me by my email: davihrsilveira2018@gmail.com, or my instagram: davihhr_.
+- 🌱 I’m currently learning js.
 
 <!---
 Satazin/Satazin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
