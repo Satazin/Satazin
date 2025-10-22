@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davih or you can call me by my nickname in games: Satazin
 - 👀 I’m interested in some games and a lil of code things (i'm still learning how to code)
-- 🌱 I’m currently learning js.
+- 🌱 I’m currently learning TypeScript, Angular, and Firebase.
 
 <!---
 Satazin/Satazin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
